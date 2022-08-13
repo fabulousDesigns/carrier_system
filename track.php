@@ -14,7 +14,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 include_once('./config/header.php');
 ?>
 
-
+<!-- styles -->
 <body>
     <style>
     #t-search {
